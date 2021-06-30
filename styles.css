@@ -1,4 +1,34 @@
 body{
   margin: 20px;
   background-color: #ccffcc;
+  border-style: dotted;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+img {
+  float: right;
+}
+
+
+#SpiderMan{
+  padding: 1px;
+  font-size: 1em;
+  color: gold;
+}
+#Wolverien{
+  padding: 2px;
+  font-size: 2em;
+  color: blue;
+}
+#DareDevil{
+  padding: 3px;
+  font-size: 1em;
+  color: green;
+}
+#IronMan{
+  padding: 4px;
+  font-size: 2em;
+  color: pink;
 }
